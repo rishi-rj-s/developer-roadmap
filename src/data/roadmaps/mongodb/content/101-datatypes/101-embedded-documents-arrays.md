@@ -1,4 +1,4 @@
-# Embedded Documents and Arrays
+# Embedded Documents Arrays
 
 In MongoDB, one of the powerful features is the ability to store complex data structures like Embedded Documents Arrays. These are essentially arrays of sub-documents (also known as nested documents) that can be stored within a single document. This allows us to model complex data relationships in a highly efficient way while maintaining good performance.
 
